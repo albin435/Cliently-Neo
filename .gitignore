@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+*.sqlite
+*.db
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+app/build_release/
+app/.build/
+app/Derived/
+app/*.dmg
+app/**/*.xcuserstate
